@@ -136,7 +136,6 @@ Added fallback to `set background=dark` and ensured syntax was enabled.
 ### Enhanced Editor Settings
 
 Improved usability and ergonomics:
-- `set mouse=a`: Enable mouse support in terminal
 - Search enhancements:
   ```vim
   set incsearch
