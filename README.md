@@ -4,7 +4,6 @@
 
 ```bash
 git clone git@github.com:jono-booth/pro-dotfiles.git ~/dotfiles
-curl -O https://yourdomain.com/setup.sh
 chmod +x setup.sh
 ./setup.sh
 ```
